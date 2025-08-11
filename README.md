@@ -1,3 +1,4 @@
+This repository is no longer maintained. See: [https://github.com/NLauncher/NostalgiaLauncherDesktop](https://github.com/NLauncher/NostalgiaLauncherDesktop)
 # NostalgiaLauncher Desktop
 Minecraft PE Alpha versions launcher for Windows
 
